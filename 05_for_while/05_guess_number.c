@@ -3,6 +3,7 @@
 #include <time.h>
 
 //通过随机数函数和循环语句，做猜数字小游戏
+//计算机产生数字，人猜数字
 int main()
 {
     srand(time(0));
