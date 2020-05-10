@@ -6,12 +6,17 @@
 //指针
 //自定义类型
 
+//关于选择：大多数情况下，整数选int，浮点选double
+
 //八进制: 数字以0开头
 //十六进制: 数字以0x开头
 
+//char: %c    '1' = 49, 'A' = 65, 'a' = 97
 //int: %d
 //long(或者long long): %ld
-//double: %lf
+//float: %f, %e(科学计数法)
+//double: %lf, %e(科学计数法)
+//关于科学计数法：-5.67E+16 (中间不能有空格)
 //unsigned: %u
 //unsigned long long: %lu
 //输出八进制: %o
