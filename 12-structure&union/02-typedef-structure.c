@@ -19,6 +19,12 @@ typedef struct {
     int year;
 } Date; //表示原先是一个没有名字的，现在自己定义了一个新的名字
 */
+
+/*
+如果结构体是指针类型，使用内部属性时可以用 -> , 比如p->next
+如果结构体只是普通类型，使用内部属性时只能用. , 比如S.length
+*/
+
 int main()
 {
     printf("Hello World!\n");
